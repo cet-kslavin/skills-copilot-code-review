@@ -8,7 +8,6 @@
       "name": "Launch Mergington WebApp",
       "type": "debugpy",
       "request": "launch",
-      "python": "/usr/local/python/current/bin/python",
       "module": "uvicorn",
       "args": [
         "src.app:app",
